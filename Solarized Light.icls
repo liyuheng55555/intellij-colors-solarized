@@ -2,8 +2,8 @@
 <scheme name="Solarized Light " version="1" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
-    <option name="ANNOTATIONS_COLOR" value="586e75" />
-    <option name="ANNOTATIONS_MERGED_COLOR" value="586e75" />
+    <option name="ANNOTATIONS_COLOR" value="242C2F" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="242C2F" />
     <option name="CARET_COLOR" value="dc322f" />
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
@@ -168,7 +168,7 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -179,7 +179,7 @@
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -398,7 +398,7 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -435,7 +435,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
@@ -451,7 +451,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -768,7 +768,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -858,7 +858,7 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="242C2F" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1069,7 +1069,7 @@
     </option>
     <option name="GHERKIN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1198,7 +1198,7 @@
     </option>
     <option name="HAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="HAML_FILTER">
@@ -1498,7 +1498,7 @@
     </option>
     <option name="JS.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1531,7 +1531,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -1554,7 +1554,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -1563,12 +1563,12 @@
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1580,7 +1580,7 @@
     </option>
     <option name="JS.SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="JS.STATIC_MEMBER_VARIABLE">
@@ -2207,7 +2207,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2219,14 +2219,14 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="242C2F" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2871,7 +2871,7 @@
     </option>
     <option name="SASS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="SASS_CONSTANT">
@@ -3372,7 +3372,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
         <option name="BACKGROUND" value="fdf6e3" />
       </value>
     </option>
@@ -3506,7 +3506,7 @@
         <option name="FOREGROUND" value="73642" />
         <option name="BACKGROUND" value="ffdf80" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc000" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -3757,7 +3757,7 @@
     </option>
     <option name="org.rust.DOC_CODE">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="242C2F" />
       </value>
     </option>
     <option name="org.rust.DOC_HEADING">
@@ -3783,7 +3783,7 @@
     </option>
     <option name="org.rust.MUT_BINDING">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="242C2F" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
